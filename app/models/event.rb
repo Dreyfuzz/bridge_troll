@@ -91,6 +91,7 @@ class Event < ActiveRecord::Base
   DEFAULT_DETAILS = <<-END
 <h2>Workshop Description</h2>
 
+You can find all the workshop resources and curricula at <a href="http://docs.railsbridge.org/">docs.railsbridge.org</a>
 <h2>Location and Sponsors</h2>
 
 <h2>Transportation and Parking</h2>
